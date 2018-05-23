@@ -9,8 +9,6 @@ public class Test1 {
       System.out.println("17");
 
       System.out.println("1333333");
-
-
 	}
 	public static void test(){
 		
