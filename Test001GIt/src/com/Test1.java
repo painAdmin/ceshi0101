@@ -6,6 +6,9 @@ public class Test1 {
 		
       System.out.println("15");
       System.out.println(16);
+      System.out.println("24");	
+      System.out.println("13");
+
 	}
 
 }
