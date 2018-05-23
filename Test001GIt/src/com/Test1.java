@@ -9,23 +9,5 @@ public class Test1 {
 		
       System.out.println("17");
 	}
-	public static void test(){
-		long time = System.currentTimeMillis();
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-	}
-    public static void test1(){
-        String str="";
-    }
-    public static void test2(){
-    	int a=23;
-    	String str="";
-    	int d=123;
-    	int c=234;
-    }
-    public static void test3(){
-    	
-    }
-    public static void test4(){
-    	int a=234;
-    }
+
 }
