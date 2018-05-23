@@ -19,5 +19,9 @@ public class Test1 {
     public static void test2(){
     	int a=23;
     	String str="";
+    	int d=123;
+    }
+    public static void test4(){
+    	int a=234;
     }
 }
