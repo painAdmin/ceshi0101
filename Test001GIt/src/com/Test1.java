@@ -8,6 +8,7 @@ public class Test1 {
       System.out.println("ceshi");
 
       System.out.println("adfasd");
+      System.out.println("22");
 	}
 
 }
