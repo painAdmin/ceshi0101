@@ -20,6 +20,10 @@ public class Test1 {
     	int a=23;
     	String str="";
     	int d=123;
+    	int c=234;
+    }
+    public static void test3(){
+    	
     }
     public static void test4(){
     	int a=234;
