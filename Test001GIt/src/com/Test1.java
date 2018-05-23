@@ -9,10 +9,6 @@ public class Test1 {
       System.out.println("17");
 
 
-      System.out.println("1120");
-    
-      Date date=new Date();
-
 	}
 
 }
