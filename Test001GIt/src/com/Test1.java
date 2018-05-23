@@ -17,6 +17,7 @@ public class Test1 {
         String str="";
     }
     public static void test2(){
+    	int a=23;
     	String str="";
     	int c=234;
     }
