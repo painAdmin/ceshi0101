@@ -18,5 +18,6 @@ public class Test1 {
     }
     public static void test2(){
     	String str="";
+    	int c=234;
     }
 }
