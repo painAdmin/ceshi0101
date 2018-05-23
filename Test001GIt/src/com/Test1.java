@@ -20,4 +20,7 @@ public class Test1 {
     	String str="";
     	int c=234;
     }
+    public static void test3(){
+    	
+    }
 }
